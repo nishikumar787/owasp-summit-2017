@@ -24,12 +24,11 @@ facebook        :
 status          : done
 ---
 
-I will be participating and willing to be conntributing in these working sessions.
--Threat Modeling 
--OwaspSAMM 
--DevSecOps
--Education
--Mobile Security-Tools 
+
+
+Long time OWASP contributor. Have been one of the core organizer for Austin OWASP LASCON conference for last 5 years. I was also core
+organizer for OWASP AppSec conference in Austin. Past OWASP global Education, Industry and Project committee member. I will be participating and willing to be conntributing in these working sessions.
+Threat Modeling, OwaspSAMM, DevSecOps, Education, Mobile Security, Tools 
 
 ## What We Need Funding For
 Funding goes into flights and accommodation.
@@ -37,9 +36,9 @@ Funding goes into flights and accommodation.
 -Lead of the Secure Development Practices program and Application security program at FIS
 -Responsible for Application security oversight and governance of 2000+ software products and applications across the enterprise
 -OWASP Project Lead and contributor 
--Led the effort developing Secure Coding Policies, Standards and Guidelines
+-Led the effort of developing Secure Coding Policies, Standards and Guidelines
 -Designed state of the art Threat Modeling Methodology to review security architecture of applications 
--Audit support, Identity and Access management and Risk management experience
+-Audit support, Identity/Access management and Risk management experience
 
 
 
